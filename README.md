@@ -7,4 +7,4 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/arnold-martinez-martinez-a04681112/)
 - :email: How to reach me: arnoldmartinez@criptext.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-martinez)](https://github.com/arnoldmartinez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmartinez)](https://github.com/arnoldmartinez/github-readme-stats)
